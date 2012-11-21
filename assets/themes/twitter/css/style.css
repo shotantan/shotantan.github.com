@@ -83,8 +83,11 @@ footer {
 }
 
 .page-header h1 {
-  font-family: 'Allura', cursive;
-/*  font-family: 'Mr Dafoe', cursive;*/
+  /*    font-family: 'Allura', cursive;
+      font-family: 'Mr Dafoe', cursive;*/
+      font-family: 'Yesteryear', cursive;
+  /*    font-family: 'Dr Sugiyama', cursive;
+      font-family: 'Dancing Script', cursive;*/
   font-weight: 500;
   font-size: 500%;
   line-height: 150%;
@@ -106,9 +109,12 @@ footer {
 }
 
 .hero-unit h1 {
-  font-family: 'Allura', cursive;
-/*  font-family: 'Mr Dafoe', cursive;*/
-  font-weight: 500;
+  /*    font-family: 'Allura', cursive;
+      font-family: 'Mr Dafoe', cursive;
+      font-family: 'Yesteryear', cursive;
+    font-family: 'Dr Sugiyama', cursive;*/
+    font-family: 'Alex Brush', cursive;
+  font-weight: 200;
   font-size: 400%;
   line-height: 120%;
   display: inline;
@@ -130,8 +136,11 @@ footer {
 }
 
 .navbar .title a {
-    font-family: 'Allura', cursive;
-  /*  font-family: 'Mr Dafoe', cursive;*/
+/*    font-family: 'Allura', cursive;
+    font-family: 'Mr Dafoe', cursive;*/
+    font-family: 'Yesteryear', cursive;
+/*    font-family: 'Dr Sugiyama', cursive;
+    font-family: 'Dancing Script', cursive;*/
     font-weight: 500;
     font-size: 300%;
     line-height: 60px;
@@ -141,7 +150,11 @@ footer {
 }
 
 .enji {
-  font-family: 'Allura', cursive;
+  /*    font-family: 'Allura', cursive;
+      font-family: 'Mr Dafoe', cursive;*/
+      font-family: 'Yesteryear', cursive;
+  /*    font-family: 'Dr Sugiyama', cursive;
+      font-family: 'Dancing Script', cursive;*/
   font-weight: 500;
 }
 

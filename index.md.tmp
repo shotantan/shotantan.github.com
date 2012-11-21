@@ -1,0 +1,38 @@
+---
+layout: index
+title: enji | mrubyラピッドプロトタイピングプラットフォーム
+tagline: mruby rapid prototyping platform
+---
+{% include JB/setup %}
+<!-- Example row of columns -->
+<div class="row">
+  <div class="hero-unit span5">
+    <h1 class="enji">enji</h1><span>mruby rapid prototyping platform</span>
+    <p>coming soon!</p>
+  </div>
+</div>
+<div class="row">
+  <div class="span4">
+    <h2>enjiとは</h2>
+    <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+    <p><a class="btn" href="#">View details &raquo;</a></p>
+  </div>
+  <div class="span4">
+    <h2>Webで開発</h2>
+    <p>連携できます。</p>
+    <p><a class="btn" href="#">View details &raquo;</a></p>
+ </div>
+  <div class="span4">
+    <h2>mruby</h2>
+    <p>mrubyはWeb分野などで広く使われているRubyの軽量版として開発されました。</p>
+    <p><a class="btn" href="https://github.com/mruby/mruby">View details &raquo;</a></p>
+  </div>
+</div>
+
+<hr>
+
+<footer>
+        <p>&copy; <a href="http://www.csk.com/fukuoka/corp/index.html">FUKUOKA CSK COAP.</a> &amp; <a href="http://www.manycolors-inc.com">Manycolors, Inc.</a> 2012</p>
+</footer>
+
+
